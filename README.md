@@ -80,6 +80,4 @@ The cleaned dataset forms the foundation of the Power BI visualizations.
 
 ---
 
-## 📁 Drive Link For Working Video of Event Analytics Dashboard
-https://drive.google.com/file/d/1E2U4bJlB6eF4ftTGop6UayrvDHxyKNdc/view?usp=sharing
 
