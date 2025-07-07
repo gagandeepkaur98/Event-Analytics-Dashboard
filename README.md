@@ -12,7 +12,7 @@ The dashboard is supported by a cleaned dataset to ensure accuracy and consisten
 
 - **Missing Values**:
   - Columns such as `Sponsorship (INR)`, `Social Media Reach`, and `Volunteer Hours` had blank values.
-  ![Image](https://github.com/user-attachments/assets/149a51db-8345-4aea-bc43-a86819a822ce)
+  
 - **Incorrect Entries**:
   - Fields like `Target Audience` had inconsistent formats (e.g., vague or overly broad terms).
 
